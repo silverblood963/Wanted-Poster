@@ -126,7 +126,7 @@ h5 {
 
 /* Section & Paragraph */
 
-sec{
+section{
     margin-top: .5rem;
     margin-bottom: 1rem;
     margin-left: auto;
@@ -154,7 +154,7 @@ p{
 }
 
 /* Image & Figure */
-fig{
+figgure{
     margin-bottom: 2rem;
     
     
