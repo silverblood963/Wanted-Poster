@@ -57,7 +57,7 @@ main {
 h1 {
     text-transform: uppercase;
     font-size:6rem;
-    margin: 0;
+    margin: 0rem;
     letter-spacing: .5rem;
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
@@ -67,7 +67,7 @@ h1 {
 h2 {
     text-transform: uppercase;
     font-size:3rem;
-    margin: 0;
+    margin: 0rem;
     letter-spacing: .25rem;
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
@@ -78,7 +78,7 @@ h3 {
     text-transform: uppercase;
     font-size:2rem;
     font-weight: normal;
-    margin: 0;
+    margin: 0rem;
     letter-spacing: .5rem;
     color:black;
     font-family:'Alfa Slab One', Garamond, serif;
@@ -88,7 +88,7 @@ h4 {
     text-transform: uppercase;
     font-size:1.5rem;
     padding-bottom: 1.125rem;
-    margin: 0;
+    margin: 0rem;
     font-weight: normal;
     letter-spacing: .25rem;
     bottom
@@ -99,8 +99,8 @@ h4 {
 }
 
 h4.span {
-padding-top: 0;
-padding-bottom: 0;
+padding-top: 0rem;
+padding-bottom: 0rem;
 padding-right: .5rem;
 padding-left: .5rem;
     color:darkred;
